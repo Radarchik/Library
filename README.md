@@ -2,7 +2,7 @@
 Online library 
 
 Tools:
-WEB - Servlets & JSP (basically scriplets)
+WEB - Servlets & JSP (basically scriplets);
 Application Server - GlassFish;
 DBMS - MySQL;
 IDEA - NetBeans;
